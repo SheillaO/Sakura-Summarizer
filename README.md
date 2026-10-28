@@ -1,6 +1,6 @@
 # 🌸 Sakura Summarizer
 
-*A hands-on exploration of the Hugging Face Inference API — by Sheilla Olga | [GitHub](https://github.com/SheillaO) · [LinkedIn](https://linkedin.com/in/sheillaolga)*
+*A hands-on exploration of the Hugging Face Inference API 
 
 ---
 
@@ -80,5 +80,3 @@ Each addition will get its own section here, so this README functions less like 
 This is one script. I'm not going to pretend it's more than that. What it represents — a deliberate habit of building and documenting real, working AI integrations rather than only reading about them — is the thing I'd actually want a recruiter or hiring manager to notice.
 
 ---
-
-*Part of my [TPMM portfolio](https://github.com/SheillaO) — built on Scrimba's AI Engineering curriculum.*
